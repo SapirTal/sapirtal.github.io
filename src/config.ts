@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
+  name: "Sapir Tal",
   title: "Senior Software Engineer",
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/RyanFitzgerald",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+      "B.Sc. in Industrial Engineering and Management, specializing in Data Science. Experienced in data analysis, pattern recognition, and transforming complex datasets into actionable insights. Proficient in Excel, SQL, and Qlik Sense for building interactive dashboards that support business decision-making. Brings a detail-oriented mindset, strong analytical skills, and a collaborative approach to every project.",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
